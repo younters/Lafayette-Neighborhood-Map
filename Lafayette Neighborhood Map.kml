@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Lafayette Neighborhood Map</name>
+	<gx:CascadingStyle kml:id="__managed_style_2D1BB67D39165795A2F2">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C64375B84165795A2F2">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_066251F0A3165795A2F2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C64375B84165795A2F2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D1BB67D39165795A2F2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="02A045601C165795A2F2">
+		<name>Hanna</name>
+		<LookAt>
+			<longitude>-86.87770205341485</longitude>
+			<latitude>40.42859976362573</latitude>
+			<altitude>174.7231586649634</altitude>
+			<heading>7.683591471660597e-09</heading>
+			<tilt>1.020840131670952</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1829.531963978371</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_066251F0A3165795A2F2</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.88101364953243,40.42473288124347,175.5080323841908 -86.87588566708644,40.42474781596254,187.9006102617588 -86.87593542583281,40.42646390707812,179.3658485507624 -86.8765265412916,40.42683769006184,177.1975293356649 -86.87662388800479,40.4279578932577,176.6589014953752 -86.87295074852781,40.43214997109742,178.4327899011121 -86.88118137434986,40.43209369183263,173.4874539876274 -86.88101364953243,40.42473288124347,175.5080323841908 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="06DBB7ADED165796E4F0">
+		<name>Lincoln</name>
+		<LookAt>
+			<longitude>-86.88655226987598</longitude>
+			<latitude>40.42940807843047</latitude>
+			<altitude>174.4555299143082</altitude>
+			<heading>5.014577136063406e-09</heading>
+			<tilt>1.021122836668273</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3594.534524606424</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_066251F0A3165795A2F2</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.88117934273966,40.43208521558008,175.194773310558 -86.88711558285776,40.432075953913,164.9124537615348 -86.8869913307891,40.42894403985729,173.2159299177282 -86.89073285132238,40.42888840130332,164.9156484393786 -86.8931337172147,40.42476929759759,167.1992408266906 -86.88105687575518,40.42476082125192,175.9999074246822 -86.88117934273966,40.43208521558008,175.194773310558 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="07F735663C165797FCF2">
+		<name>St. Lawrence McAllister</name>
+		<LookAt>
+			<longitude>-86.87419926115528</longitude>
+			<latitude>40.43625140498672</latitude>
+			<altitude>179.259223914996</altitude>
+			<heading>4.156157876420714e-09</heading>
+			<tilt>1.021224638825338</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4230.111025091611</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_066251F0A3165795A2F2</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.87288076727283,40.43219306025984,177.271617547736 -86.86446014017667,40.44138892802183,186.4055855674263 -86.86917962876255,40.44372813648658,179.7470994898283 -86.87548853765831,40.44135790155331,177.2763337832016 -86.88112833271624,40.43892416361994,174.8005982144566 -86.88144239362137,40.43800348430845,174.7997660036821 -86.88125429641677,40.43214771818023,175.2148385702693 -86.87288076727283,40.43219306025984,177.271617547736 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="04EB20EFDE1657990537">
+		<name>Monon</name>
+		<LookAt>
+			<longitude>-86.87669600448977</longitude>
+			<latitude>40.43837094624705</latitude>
+			<altitude>174.6924672667341</altitude>
+			<heading>-4.544570625206022e-09</heading>
+			<tilt>1.021924954878666</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8602.358214705018</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_066251F0A3165795A2F2</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.86945207983408,40.44366146046919,179.6459581076451 -86.87312630039462,40.44678973859405,171.3896068943164 -86.87511736755275,40.44553563032204,176.3337716189775 -86.87657909519258,40.44379915193924,174.6871256986757 -86.87774768332255,40.44188437170006,174.7031179748654 -86.88177841428531,40.43961657456632,171.1008081383321 -86.88382271819108,40.43708254561538,166.1810262114167 -86.88708910819372,40.43348297329418,162.6840771736732 -86.88708229245589,40.43201974929006,165.2560065460246 -86.88124242837185,40.43215853348044,174.698089881575 -86.8813073247545,40.43801541510704,174.696729588212 -86.8811916071143,40.43894865369157,174.7026428623715 -86.86945207983408,40.44366146046919,179.6459581076451 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="019249FB4D165799A132">
+		<name>Vinton</name>
+		<LookAt>
+			<longitude>-86.87666652992554</longitude>
+			<latitude>40.43056465850057</latitude>
+			<altitude>174.7037949774909</altitude>
+			<heading>9.747989200993061e-09</heading>
+			<tilt>1.021924953702031</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8602.346347774146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_066251F0A3165795A2F2</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.87269727788347,40.43216389032408,177.7935708170109 -86.85814687937163,40.4321556800164,197.6300346529004 -86.85822280447154,40.43660372661177,188.1394209877899 -86.85960185684522,40.43883675573904,181.8881042619863 -86.86451182558365,40.44141532127844,187.9729520055031 -86.87269727788347,40.43216389032408,177.7935708170109 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="06155BB45A16579B9962">
+		<name>Historic Jefferson</name>
+		<LookAt>
+			<longitude>-86.88494987279722</longitude>
+			<latitude>40.42155852816098</latitude>
+			<altitude>174.1864502677187</altitude>
+			<heading>4.804425772552411e-09</heading>
+			<tilt>1.020881075731645</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2085.161786574754</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_066251F0A3165795A2F2</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.88690596700806,40.42469871501734,176.5276582428044 -86.88681645792924,40.42007298333893,172.1895869336371 -86.8839763504068,40.420107801828,176.9473650178846 -86.88386289136905,40.42056925633266,176.7509686337971 -86.87994764564282,40.42468686219242,177.1030138737478 -86.88690596700806,40.42469871501734,176.5276582428044 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
